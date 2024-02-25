@@ -1,5 +1,5 @@
 # Fast React Pizza
 
-One of the projects from React Ultimate Course.
+Webapp for a pizza restaurant
 
 Link to webapp: https://dainty-malasada-aa86fe.netlify.app
