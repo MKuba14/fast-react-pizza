@@ -1,5 +1,9 @@
 # Fast React Pizza
 
-Web application for a pizza restaurant
+### Web application for a pizza restaurant
 
-Link to webapp: https://dainty-malasada-aa86fe.netlify.app
+- Front-end: React + Vite
+- Styling: Tailwind
+- Hosting: Netlify
+  
+Link to web application: https://dainty-malasada-aa86fe.netlify.app
